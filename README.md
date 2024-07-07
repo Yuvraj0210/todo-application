@@ -1,2 +1,3 @@
 # reactjs-todolist
- CRUD TODO APP W. REACTJS
+CRUD applications on todo application
+
